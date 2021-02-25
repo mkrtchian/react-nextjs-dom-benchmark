@@ -1,0 +1,13 @@
+{
+  "name": "react-nextjs-dom-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf build/react build/react_css build/next build/plain_html react/build react_css/build next/.next next/out",
+    "build": "cd react && yarn build && cd ../react_css && yarn build && cd ../next && yarn build && cd .. && mv react/build build/react && mv react_css/build build/react_css && mv next/out build/next && cp -r plain_html/src build/plain_html",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
