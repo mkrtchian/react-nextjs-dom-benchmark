@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-nextjs-dom-benchmark/react_css/static/js/main.a1dd4fe7.chunk.js",
+    "main.js.map": "/react-nextjs-dom-benchmark/react_css/static/js/main.a1dd4fe7.chunk.js.map",
+    "runtime-main.js": "/react-nextjs-dom-benchmark/react_css/static/js/runtime-main.5ee4755f.js",
+    "runtime-main.js.map": "/react-nextjs-dom-benchmark/react_css/static/js/runtime-main.5ee4755f.js.map",
+    "static/js/2.99de00b2.chunk.js": "/react-nextjs-dom-benchmark/react_css/static/js/2.99de00b2.chunk.js",
+    "static/js/2.99de00b2.chunk.js.map": "/react-nextjs-dom-benchmark/react_css/static/js/2.99de00b2.chunk.js.map",
+    "index.html": "/react-nextjs-dom-benchmark/react_css/index.html",
+    "static/js/2.99de00b2.chunk.js.LICENSE.txt": "/react-nextjs-dom-benchmark/react_css/static/js/2.99de00b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee4755f.js",
+    "static/js/2.99de00b2.chunk.js",
+    "static/js/main.a1dd4fe7.chunk.js"
+  ]
+}
