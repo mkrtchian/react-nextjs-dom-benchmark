@@ -15,7 +15,7 @@ There are several solutions tested here:
 * Next.js with next's page routing
 * A CSS solution with React and `overflow: hidden; height: 0px;` on the big component to hide it
 
-The static build of all solutions is hosted [on the github of this repo](https://mkrtchian.github.io/react-nextjs-dom-benchmark/) (the pages take several seconds to load on a normal computer, so maybe avoid clicking on them if on mobile or so).
+The static build of all solutions is hosted [on the github pages of this repo](https://mkrtchian.github.io/react-nextjs-dom-benchmark/) (the pages take several seconds to load on a normal computer, so maybe avoid clicking on them if on mobile or so).
 
 The idea comes initially from [a stackoverflow question](https://stackoverflow.com/questions/66248219/react-single-page-apps-and-the-browsers-back-button/) and some discussion around. My results and interpretation is described there.
 
