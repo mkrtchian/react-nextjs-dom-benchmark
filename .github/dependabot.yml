@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "npm"
+    directory: "/next/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "npm"
+    directory: "/react/"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "npm"
+    directory: "/react_css/"
+    schedule:
+      interval: "monthly"
